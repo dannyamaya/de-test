@@ -1,0 +1,254 @@
+
+{
+    "BigQuery Schema": [
+      {
+        "name": "Incident_Number",
+        "type": "STRING"
+      },
+      {
+        "name": "Exposure_Number",
+        "type": "STRING"
+      },
+      {
+        "name": "ID",
+        "type": "STRING"
+      },
+      {
+        "name": "Address",
+        "type": "STRING"
+      },
+      {
+        "name": "Incident_Date",
+        "type": "DATETIME"
+      },
+      {
+        "name": "Alarm_DtTm",
+        "type": "DATETIME"
+      },
+      {
+        "name": "Arrival_DtTm",
+        "type": "DATETIME"
+      },
+      {
+        "name": "Close_DtTm",
+        "type": "DATETIME"
+      },
+      {
+        "name": "City",
+        "type": "STRING"
+      },
+      {
+        "name": "zipcode",
+        "type": "STRING"
+      },
+      {
+        "name": "Battalion",
+        "type": "STRING"
+      },
+      {
+        "name": "Station_Area",
+        "type": "STRING"
+      },
+      {
+        "name": "Box",
+        "type": "STRING"
+      },
+      {
+        "name": "Suppression_Units",
+        "type": "STRING"
+      },
+      {
+        "name": "Suppression_Personnel",
+        "type": "STRING"
+      },
+      {
+        "name": "EMS_Units",
+        "type": "STRING"
+      },
+      {
+        "name": "EMS_Personnel",
+        "type": "STRING"
+      },
+      {
+        "name": "Other_Units",
+        "type": "STRING"
+      },
+      {
+        "name": "Other_Personnel",
+        "type": "STRING"
+      },
+      {
+        "name": "First_Unit_On_Scene",
+        "type": "STRING"
+      },
+      {
+        "name": "Estimated_Property_Loss",
+        "type": "STRING"
+      },
+      {
+        "name": "Estimated_Contents_Loss",
+        "type": "STRING"
+      },
+      {
+        "name": "Fire_Fatalities",
+        "type": "STRING"
+      },
+      {
+        "name": "Fire_Injuries",
+        "type": "STRING"
+      },
+      {
+        "name": "Civilian_Fatalities",
+        "type": "STRING"
+      },
+      {
+        "name": "Civilian_Injuries",
+        "type": "STRING"
+      },
+      {
+        "name": "Number_of_Alarms",
+        "type": "STRING"
+      },
+      {
+        "name": "Primary_Situation",
+        "type": "STRING"
+      },
+      {
+        "name": "Mutual_Aid",
+        "type": "STRING"
+      },
+      {
+        "name": "Action_Taken_Primary",
+        "type": "STRING"
+      },
+      {
+        "name": "Action_Taken_Secondary",
+        "type": "STRING"
+      },
+      {
+        "name": "Detector_Alerted_Occupants",
+        "type": "STRING"
+      },
+      {
+        "name": "Property_Use",
+        "type": "STRING"
+      },
+      {
+        "name": "Area_of_Fire_Origin",
+        "type": "STRING"
+      },
+      {
+        "name": "Ignition_Cause",
+        "type": "STRING"
+      },
+      {
+        "name": "Ignition_Factor_Primary",
+        "type": "STRING"
+      },
+      {
+        "name": "Ignition_Factor_Secondary",
+        "type": "STRING"
+      },
+      {
+        "name": "Heat_Source",
+        "type": "STRING"
+      },
+      {
+        "name": "Item_First_Ignited",
+        "type": "STRING"
+      },
+      {
+        "name": "Human_Factors_Associated_with_Ignition",
+        "type": "STRING"
+      },
+      {
+        "name": "Structure_Type",
+        "type": "STRING"
+      },
+      {
+        "name": "Structure_Status",
+        "type": "STRING"
+      },
+      {
+        "name": "Floor_of_Fire_Origin",
+        "type": "STRING"
+      },
+      {
+        "name": "Fire_Spread",
+        "type": "STRING"
+      },
+      {
+        "name": "No_Flame_Spead",
+        "type": "STRING"
+      },
+      {
+        "name": "Number_of_floors_with_minimum_damage",
+        "type": "STRING"
+      },
+      {
+        "name": "Number_of_floors_with_significant_damage",
+        "type": "STRING"
+      },
+      {
+        "name": "Number_of_floors_with_heavy_damage",
+        "type": "STRING"
+      },
+      {
+        "name": "Number_of_floors_with_minimum_damage",
+        "type": "STRING"
+      },
+      {
+        "name": "Number_of_floors_with_extreme_damage",
+        "type": "STRING"
+      },
+      {
+        "name": "Detectors_Present",
+        "type": "STRING"
+      },
+      {
+        "name": "Detector_Type",
+        "type": "STRING"
+      },
+      {
+        "name": "Detector_Operation",
+        "type": "STRING"
+      },
+      {
+        "name": "Detector_Effectiveness",
+        "type": "STRING"
+      },
+      {
+        "name": "Detector_Failure_Reason",
+        "type": "STRING"
+      },
+      {
+        "name": "Automatic_Extinguishing_Sytem_Type",
+        "type": "STRING"
+      },
+      {
+        "name": "Automatic_Extinguishing_Sytem_Perfomance",
+        "type": "STRING"
+      },
+      {
+        "name": "Automatic_Extinguishing_Sytem_Failure_Reason",
+        "type": "STRING"
+      },
+      {
+        "name": "Number_of_Sprinkler_Heads_Operating",
+        "type": "STRING"
+      },
+      {
+        "name": "Supervisor_District",
+        "type": "STRING"
+      },
+      {
+        "name": "neighborhood_district",
+        "type": "STRING"
+      },
+      {
+          "name": "point",
+          "type": "string"
+      }
+      
+    ]
+  }
